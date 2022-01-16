@@ -26,7 +26,14 @@ docker stop nama_kontainer
  + docker container ls -a / -all
  + docker ps -a
  
-##
+## 9. Sintaks melihat daftar images
+docker images
+docker image ls
+
+## 10. Sintaks melihat info tentang images(port, info)
+docker inspect nama_images
+
+
 
 
 
